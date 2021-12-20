@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Manga</string>
+    <!-- Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Welcome to the MangaIND</string>
+    <string name="second_slide_title">Read and Download Manga</string>
+    <string name="thirs_slide_title">Check your History</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+    <string name="signout">Sign Out</string>
+    <string name="message">Hello User, You can Login using Google</string>
+    <string name="skip">SKIP FOR NOW</string>
+
+    <!---Facebook-->
+    <string name="facebook_app_id">419364139549106</string>
+    <string name="fb_login_protocol_scheme">fb419364139549106</string>
+
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <string name="defaul_web_client_id" translatable="false">983576719333-pr2uge62g25d28u87ccpotgati84e1vd.apps.googleusercontent.com</string>
+
+    <string name="text_new_comic">NEW MANGA (0)</string>
+    <string name="text_chapter_size">CHAPTER (10)</string>
+    <string name="text_chapter_number">CHAPTER 1</string>
+</resources>

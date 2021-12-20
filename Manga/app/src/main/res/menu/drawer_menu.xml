@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item android:id="@+id/nav_profile"
+            android:icon="@drawable/profile"
+            android:title="Profile">
+        </item>
+        <item android:id="@+id/bookmark"
+            android:icon="@drawable/bookmark"
+            android:title="Bookmark">
+        </item>
+        <item android:id="@+id/m"
+            android:icon="@drawable/folder"
+            android:title="Seinen">
+        </item>
+        <item android:id="@+id/d"
+            android:icon="@drawable/folder"
+            android:title="Shojo">
+        </item>
+        <item android:id="@+id/mh"
+            android:icon="@drawable/folder"
+            android:title="Shonen">
+        </item>
+        <item android:id="@+id/mha"
+            android:icon="@drawable/folder"
+            android:title="Kodomomuke">
+        </item>
+    </group>
+
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+        <item android:id="@+id/logout"
+            android:title="Log Out">
+        </item>
+    </group>
+
+</menu>
